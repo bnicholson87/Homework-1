@@ -1,0 +1,9 @@
+Put "header" in place of "div" on lines 11 and 26 of html file
+Put "footer" in place of "div" on lines 74 and 79 of html file
+Put "nav" in place of "div" on lines 13 and 25 of html file
+Put "nav" in place of "div" on lines 27, 35 and 39 of css file
+Put "section" in place of "div" on line 27 of html file
+Removed the extra </img> at the end of line 68 of the html file
+Changed the title to "Horiseon - SEO and Social Media Experts" on line 7 of html file
+Put alt tags on all of the images
+Added an id for "search-engine-optimization" on line 29 of html to make the link clickable
